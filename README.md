@@ -43,5 +43,9 @@ The dataset contains information scraped from Amazon product pages, including:
 13. Which categories have products with the highest discounts?
 14. Identify the top 5 products in terms of rating and number of reviews combined.
     
+    [Capstone Project Case Study 1.xlsx](https://github.com/user-attachments/files/21025169/Capstone.Project.Case.Study.1.xlsx)
+
 ### Dashboard Creation
 Build an Excel dashboard Using cleaned dataset and pivot outputs.
+
+![image](https://github.com/user-attachments/assets/c303e90f-c5c9-4f67-ac87-69239ca019f5)
