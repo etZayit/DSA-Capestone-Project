@@ -11,13 +11,17 @@ This project is aimed at analysing product and cutomer review data to generate i
 *RetailTech Insights*, a company that provides e-commerce analytics solutions to sellers on platforms like amazon.
 
 ### Tools
-- Ms Excel:[Download Here](https://www.micrsoft.com)
+**Ms Excel**[Download Here](https://www.micrsoft.com)
  - for Data Cleaning
  - for data collection
+ - Pivot Table
+ - Data Visualization
 
 ### Dataset Description
 
 The dataset contains information scraped from Amazon product pages, including:
+
+**- 16 C0lumns; Total Record: 1,465**
 
 **- Product details: name, category, price, discount, and ratings**
 
